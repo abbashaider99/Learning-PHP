@@ -7,5 +7,5 @@ function fruits(array $myarr){
 
 $test = ["Apple"];
 fruits($test);
- 
+  
 ?>
